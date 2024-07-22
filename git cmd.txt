@@ -1,0 +1,52 @@
+ Git Knowledge:Git is a distributed version control system based on linux kernal.
+ 
+ 1) Download git/git bash in the system
+ 2) create account on git hub
+ 
+ Create code folder on the system and add your code then push that code on git hub
+ 1) git init 
+ 
+ Open git bash in your source folder and run  - git init
+ It will create .git folder and initialise git in your folder 
+ 
+ 2) git status
+ 
+It shows the untrack files status in your code.(if there are new files or code changes then git will treat them as untracked files)
+
+3) git add .
+This cmd used to push code from your working directory to staging in your local repository.( all untracked files will be pused in local staging repository.before commiting the files we 1st need to run git add . cmd
+
+4) git commit -m "any message"
+this cmd is used to commit the code that we added in the local staging environment . after that we can use git status to see the status of your repository.
+
+5) git log
+this cmd is used to get all the info of the commit(dev who commited/date/commit ID/commit msg/Day ) all commit info
+
+6) git show (commitid)
+It will give the info of the code what is commited(all the change done in the code)
+
+7) git remote add origin (github url)
+to add local repo to ur remote repo
+
+8) git push -u origin master
+push the code in master branch in remote repository
+
+ Create folder on the system and pull code from git hub
+ 1) create folder on system and run git init
+ 2) Run git remote add origin (github url of master remote directory)
+ The above cmd will conncet the system local repo with remote repo
+ 
+ 3) git pull origin master
+ The above cmd will pull all the remote code of master branch to local repo
+ 
+ 4) git log
+ The above cmd will show all the details of the pulled code with all commits that happed on the remote master branch
+ 
+				Branches in git
+1) Git branch 
+To see in which branch you are
+
+2) git checkout branchname - when you need to switch the branch
+
+3) git checkout -b myFeature master  - create and switch to new branch myfeature 
+ 
