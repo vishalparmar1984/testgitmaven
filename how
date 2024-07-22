@@ -1,0 +1,70 @@
+[33mcommit 70f7fdeac13034e54ed30fd7bf7b72ce80787e8a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: unknown <vishalparmar94@gmail.com>
+Date:   Sun Jul 21 13:22:21 2024 +0530
+
+    stash check
+
+[33mcommit 803c5005b3af6ffb7bf83e1f488f215eaaf115e6[m
+Author: unknown <vishalparmar94@gmail.com>
+Date:   Sun Jul 21 13:18:30 2024 +0530
+
+    stash1
+
+[33mcommit 2304296f4a671987c5ff1f965883f38a9c35c350[m
+Author: unknown <vishalparmar94@gmail.com>
+Date:   Sun Jul 21 13:05:44 2024 +0530
+
+    stash checking
+
+[33mcommit 3af65e4676467074e9bef2350e64b05025f395d9[m
+Merge: 1708f47 9d0fa48
+Author: unknown <vishalparmar94@gmail.com>
+Date:   Sun Jul 21 12:52:16 2024 +0530
+
+    conflict resolved
+
+[33mcommit 9d0fa48b55534b04641c7d0b4caac4495dcb143e[m
+Author: unknown <vishalparmar94@gmail.com>
+Date:   Sun Jul 21 12:47:04 2024 +0530
+
+    file in branch1
+
+[33mcommit 1708f4722058fd2de337e2005c5bfdde7d2afdc7[m
+Author: unknown <vishalparmar94@gmail.com>
+Date:   Sun Jul 21 12:45:55 2024 +0530
+
+    conflict file in master
+
+[33mcommit ec0b86eea83121686a88c577ed6642404799405b[m
+Author: vishalparmar1984 <vishalparmar94@gmail.com>
+Date:   Sun Jul 21 12:33:24 2024 +0530
+
+    Update 2ndfile
+    
+    checking conflict
+
+[33mcommit 453b5a64b411a7c73de6683c9576b66bef03b0f4[m
+Author: unknown <vishalparmar94@gmail.com>
+Date:   Sat Jul 20 13:38:01 2024 +0530
+
+    4th commit
+
+[33mcommit 668eeb26d7c9bf53542a4fa212cf1382a2c0eefa[m
+Author: vishalparmar1984 <vishalparmar94@gmail.com>
+Date:   Sat Jul 20 12:51:49 2024 +0530
+
+    Create 2ndfile
+    
+    2nd file
+
+[33mcommit bb49b0c41bbf1d605a2f11f188e91d53d4c0a3bc[m
+Author: unknown <vishalparmar94@gmail.com>
+Date:   Sat Jul 20 03:09:55 2024 +0530
+
+    2nd commit
+
+[33mcommit 84feb1165d9cb0ec2bc1fe7c80b11faa1e588cfb[m
+Author: unknown <vishalparmar94@gmail.com>
+Date:   Sat Jul 20 03:01:01 2024 +0530
+
+    First commit
